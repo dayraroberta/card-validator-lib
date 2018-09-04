@@ -1,0 +1,26 @@
+{
+  "name": "card-validator-lib",
+  "version": "1.0.0",
+  "description": "Uma biblioteca que verifica se um cartão de crédito é válido ou não.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cardValidator()"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dayraroberta/card-validator-lib.git"
+  },
+  "keywords": [
+    "Cartão",
+    "crédito",
+    "credit",
+    "card",
+    "validator"
+  ],
+  "author": "Dayra Roberta dos Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dayraroberta/card-validator-lib/issues"
+  },
+  "homepage": "https://github.com/dayraroberta/card-validator-lib#readme"
+}
