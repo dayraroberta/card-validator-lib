@@ -1,5 +1,5 @@
 {
-  "name": "card-validator-lib",
+  "name": "credit-card-validator-lib",
   "version": "1.0.0",
   "description": "Uma biblioteca que verifica se um cartão de crédito é válido ou não.",
   "main": "index.js",
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/dayraroberta/card-validator-lib/issues"
   },
-  "homepage": "https://github.com/dayraroberta/card-validator-lib#readme"
+  "homepage": "https://github.com/dayraroberta/card-validator-lib#readme",
+  "dependencies": {
+    "eslint": "^5.5.0"
+  }
 }
