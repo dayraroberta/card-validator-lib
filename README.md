@@ -1,6 +1,7 @@
 # Verificador de cartão de crédito v.1.0.0
 
-**Esta biblioteca se destina à verificação de cartões de créditos**
+**Esta biblioteca se destina à verificação de cartões de créditos.**
+
 Ao inserir o número de um cartão, esta versão informa de acordo com o algorítmo de Luhn se o cartão inserido é válido ou inválido.
 
 
@@ -35,5 +36,5 @@ $node
 #### Versão 2.0.0 (previsão dezembro/2018)
 - Implementação de reconhecimento da bandeira do cartão.
 
-#### Versão 1.0.0 (released)
+#### Versão 1.0.1 (released)
 - Funcionalidades: Verifica se o cartão é válido ou não e retorna true para válido e false para inválido.
